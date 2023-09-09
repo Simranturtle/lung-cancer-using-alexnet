@@ -1,6 +1,4 @@
-Data Story
-It was a project about chest cancer detection using machine learning and deep leaning (CNN) .
-we classify and diagnose if the patient have cancer or not using AI model .
+We classify and diagnose if the patient have cancer or not using AI model .
 We give them the information about the type of cancer and the way of treatment.
 we tried to collect all data we need to make the model classify the images easily.
 so i had to fetch data from many resources to start the project .
